@@ -1,0 +1,18 @@
+{
+  "name": "victornewb",
+  "version": "0.1.1",
+  "description": "VictorNewb Package Manager - publish, install, and uninstall packages.",
+  "main": "index.js",
+  "bin": {
+    "victornewb": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
+  },
+  "keywords": ["cli", "package-manager"],
+  "author": "VictorNewb",
+  "license": "MIT"
+}

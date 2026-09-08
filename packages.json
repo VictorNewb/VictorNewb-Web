@@ -1,0 +1,14 @@
+{
+  "packages": [
+    {
+      "name": "victornewb",
+      "version": "0.1.0",
+      "description": "VictorNewb Package Manager"
+    },
+    {
+      "name": "tesst-pack",
+      "version": "1.2.3",
+      "description": "Test"
+    }
+  ]
+}
